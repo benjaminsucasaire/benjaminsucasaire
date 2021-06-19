@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; PHP | Java | C++ | SQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Sass | Laravel
+- 🌐 &nbsp; HTML | CSS | JavaScript | Sass | Laravel
 
 <!--
 
