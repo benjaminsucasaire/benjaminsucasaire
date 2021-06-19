@@ -1,29 +1,32 @@
-### Hi there 👋<h2> I'm Benjamin</h2>
+### Hola 👋<h2> Soy Benjamin</h2>
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻•💻 Acerca de mí </h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Estudiante de Ingeniería de Sistemas e Informatica .
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Aprendiendo sobre Cloud Tech, Diseño de Sistemas.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
-
-<h3>🛠 Tech Stack</h3>
+- ✍️ &nbsp; Seguir el desarrollo web como pasatiempos / actividades secundarias.
 
 
 
-- 💻 &nbsp; PHP | Java | C++ | SQL
+<h3>🛠Pila de tecnología</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Sass | Laravel
 
+
+- 💻 &nbsp; PHP | Java | C++ 
+
+- 🌐 &nbsp; HTML | CSS | JavaScript  
+- 
+- 🛢 &nbsp; MySQL 
+
+- 🔧 &nbsp;  Sass | Laravel
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
@@ -36,7 +39,7 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Por aprender</h3>
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
@@ -64,7 +67,7 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻Contactate conmigo </h3>
 
 <br>
 
