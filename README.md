@@ -5,12 +5,11 @@
 <h3> 👨🏻•💻 Acerca de mí </h3>
 
 
-
-- 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
-
 - 🎓 &nbsp; Estudiante de Ingeniería de Sistemas e Informatica .
 
 - 🌱 &nbsp; Aprendiendo sobre Cloud Tech, Diseño de Sistemas.
+
+- 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 
 - ✍️ &nbsp; Seguir el desarrollo web como pasatiempos / actividades secundarias.
 
@@ -41,7 +40,7 @@
 
 <h3>🛠 Por aprender</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 |kubernetes | jenkins 
 
 <hr>
 
