@@ -22,10 +22,10 @@
 - 💻 &nbsp; PHP | Java | C++ 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript  
-- 
+
 - 🛢 &nbsp; MySQL 
 
-- 🔧 &nbsp;  Sass | Laravel
+- 🔧 &nbsp;   Laravel | Sass 
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
