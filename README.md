@@ -25,7 +25,7 @@
 
 - 🛢 &nbsp; MySQL 
 
-- 🔧 &nbsp;   Laravel | Sass 
+- 🔧 &nbsp;   Laravel | Sass |Bootstrap 5
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
