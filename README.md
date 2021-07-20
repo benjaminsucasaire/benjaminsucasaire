@@ -7,7 +7,7 @@
 
 - 🎓 &nbsp; Estudiante de Ingeniería de Sistemas e Informatica .
 
-- 🌱 &nbsp; Aprendiendo sobre Cloud Tech, Diseño de Sistemas.
+- 🌱 &nbsp; Aprendiendo sobre Cloud Computing y desarrollo web.
 
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 
