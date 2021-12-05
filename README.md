@@ -37,10 +37,11 @@
 -->
 
 <h3>🛠 Cloud ☁️</h3>
-AWS
+- 🔧 &nbsp; AWS
+- 
 <h3>🛠 Por aprender</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 |kubernetes | jenkins 
+- 🔧 &nbsp; Docker🐳 |kubernetes | jenkins 
 
 <hr>
 
