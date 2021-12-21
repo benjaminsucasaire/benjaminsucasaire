@@ -7,7 +7,7 @@
 
 - 🎓 &nbsp; Estudiante de Ingeniería de Sistemas e Informatica.
 
-- ✅ &nbsp; AWS Certified Cloud Practitioner
+- ✅ &nbsp; AWS  Cloud Practitioner
 
 - 🌱 &nbsp; Aprendiendo sobre Cloud Computing y desarrollo web.
 
