@@ -1,17 +1,19 @@
-### Hola 👋<h2> Soy Benjamin</h2>
+### Hola 👋<h2> Soy Benjamin / DevOps Engineer Jr</h2>
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 <h3> 👨🏻•💻 Acerca de mí </h3>
 
 
-- 🎓 &nbsp; Estudiante de Ingeniería de Sistemas e Informatica .
+- 🎓 &nbsp; Estudiante de Ingeniería de Sistemas e Informatica.
+
+- ✅ &nbsp; AWS Certified Cloud Practitioner
 
 - 🌱 &nbsp; Aprendiendo sobre Cloud Computing y desarrollo web.
 
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 
-- ✍️ &nbsp; Seguir el desarrollo web como pasatiempos / actividades secundarias.
+- 🙋‍♂️ &nbsp; Me encanta la musica, ver peliculas y dormir :)
 
 
 
@@ -19,29 +21,26 @@
 
 
 
-- 💻 &nbsp; PHP | Java | C++ 
+- 💻 &nbsp; PHP | Java | C++ | Python 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript  
-
-- 🛢 &nbsp; MySQL 
+- 🌐 &nbsp; HTML | CSS 
 
 - 🔧 &nbsp;   Laravel | Sass |Bootstrap 5
-<!--
 
-- 🛢 &nbsp; MySQL | MongoDB
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🛢 &nbsp; MySQL |PostgreSQL | MongoDB
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🔧 &nbsp; Git 
 
--->
+- 🖥 &nbsp; Docker🐳 
+
 
 <h3>🛠 Cloud ☁️</h3>
-- 🔧 &nbsp; AWS
+- 🔧 &nbsp; AWS 
 - 
 <h3>🛠 Por aprender</h3>
 
-- 🔧 &nbsp; Docker🐳 |kubernetes | jenkins 
+- 🔧 &nbsp;  |kubernetes | jenkins 
 
 <hr>
 
