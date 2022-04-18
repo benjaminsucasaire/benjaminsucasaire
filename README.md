@@ -41,9 +41,9 @@
 <h3>🛠 Por aprender</h3>
 
 - 🔧 &nbsp;  |kubernetes | jenkins 
-
-<hr>
 <img align='right' src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" height="400" width="600">
+<hr>
+
 
 <br/><br/>
 
