@@ -27,7 +27,6 @@
 
 - 🔧 &nbsp;   Laravel | Sass |Bootstrap 5
 
-
 - 🛢 &nbsp; MySQL |PostgreSQL | MongoDB
 
 - 🔧 &nbsp; Git 
@@ -36,12 +35,15 @@
 
 
 <h3>🛠 Cloud ☁️</h3>
-- 🔧 &nbsp; AWS 
-- 🔧 Digital Ocean
+- 🔧 &nbsp; AWS (EC2, Route53, Lambda, RDS, ECS, CloudFormation, AWS CLI, etc.) 
+- 🔧 &nbsp; Digital Ocean
+
 <h3>🛠 Por aprender</h3>
 
-- 🔧 &nbsp;  |kubernetes | jenkins 
-
+- 🔧 &nbsp; Kubernetes 
+- 🔧 &nbsp; Jenkins
+- 🔧 &nbsp; Prometeus
+- 🔧 &nbsp; Terraform
 <hr>
 
 
