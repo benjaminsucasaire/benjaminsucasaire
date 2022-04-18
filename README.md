@@ -54,7 +54,7 @@
 <br/>
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350" align='right'>
-<img align='right' src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" height="300" width="600">
+<img align='right' src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" height="300" width="500">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminsucasaire&show_icons=true)
 
