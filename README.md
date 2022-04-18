@@ -37,7 +37,7 @@
 
 <h3>🛠 Cloud ☁️</h3>
 - 🔧 &nbsp; AWS 
-- 
+- 🔧 Digital Ocean
 <h3>🛠 Por aprender</h3>
 
 - 🔧 &nbsp;  |kubernetes | jenkins 
