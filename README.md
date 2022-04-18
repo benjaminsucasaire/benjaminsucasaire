@@ -1,7 +1,7 @@
 ### Hola 👋<h2> Soy Benjamin / DevOps Engineer Jr</h2>
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-<img align='right' src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" width="230">
+<img align='right' src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" height="600" width="900">
 <h3> 👨🏻•💻 Acerca de mí </h3>
 
 
