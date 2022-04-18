@@ -19,7 +19,7 @@
 
 <h3>🛠Pila de tecnología</h3>
 
-
+<img align='right' src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" height="400" width="600">
 
 - 💻 &nbsp; PHP | Java | C++ | Python 
 
@@ -41,7 +41,7 @@
 <h3>🛠 Por aprender</h3>
 
 - 🔧 &nbsp;  |kubernetes | jenkins 
-<img align='right' src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" height="400" width="600">
+
 <hr>
 
 
