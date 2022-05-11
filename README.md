@@ -13,7 +13,7 @@
 
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 
-- 🙋‍♂️ &nbsp; Me encanta la musica, ver peliculas y dormir :)
+- 🙋‍♂️ &nbsp; Me encanta la música, ver peliculas y dormir :)
 
 
 
