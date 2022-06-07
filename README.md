@@ -23,7 +23,7 @@
 - ✅ &nbsp; AWS  Cloud Practitioner
 
 
-<h3>🛠Pila de tecnología</h3>
+<h3>🛠 Pila de tecnología</h3>
 
 <img align='right' src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" height="400" width="600">
 
@@ -46,11 +46,14 @@
 
 - 🔧 &nbsp; Digital Ocean
 
+- 🔧 &nbsp; Kubernetes
+
+- 🔧 &nbsp; Jenkins
+
 <h3>🛠 Por aprender</h3>
 
-- 🔧 &nbsp; Kubernetes 
-- 🔧 &nbsp; Jenkins
 - 🔧 &nbsp; Prometeus
+
 - 🔧 &nbsp; Terraform
 <hr>
 
