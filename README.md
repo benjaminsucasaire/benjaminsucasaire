@@ -35,7 +35,7 @@
 
 - 🔧 &nbsp; Git 
 
-- 🖥 &nbsp; Docker🐳 
+- 🐳 &nbsp; Docker
 
 
 <h3>☁️ Cloud </h3>
