@@ -27,15 +27,13 @@
 
 - 💻 &nbsp; PHP | Java | C++ | Python 
 
-- 🌐 &nbsp; HTML | CSS 
+- 🌐 &nbsp; HTML | CSS | SASS
 
-- 🔧 &nbsp;   Laravel | Sass |Bootstrap 5
+- 🔧 &nbsp; Laravel | spring boot | Bootstrap 5
 
 - 🛢 &nbsp; MySQL |PostgreSQL | MongoDB
 
-- 🔧 &nbsp; Git 
-
-- 🐳 &nbsp; Docker
+- 🔧 &nbsp; Git | postman | JMeter
 
 
 <h3>☁️ Cloud </h3>
@@ -46,7 +44,10 @@
 
 - 🔧 &nbsp; Kubernetes
 
+- 🐳 &nbsp; Docker
+
 - 🔧 &nbsp; Jenkins
+
 
 <h3>⏱ Por aprender</h3>
 
