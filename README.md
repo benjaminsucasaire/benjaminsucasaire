@@ -16,6 +16,12 @@
 - 🙋‍♂️ &nbsp; Me encanta la música, ver peliculas y dormir :)
 
 
+<h3> 👨🏻•💻•🛠 Acerca de mí </h3>
+
+- ✅ &nbsp; aws solutions architect associate.
+
+- ✅ &nbsp; AWS  Cloud Practitioner
+
 
 <h3>🛠Pila de tecnología</h3>
 
