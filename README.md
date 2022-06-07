@@ -38,7 +38,7 @@
 - 🖥 &nbsp; Docker🐳 
 
 
-<h3>🛠 Cloud ☁️</h3>
+<h3>☁️ Cloud </h3>
 
 - 🔧 &nbsp; AWS (EC2, Route53, Lambda, RDS, ECS, CloudFormation, AWS CLI, etc.) 
 
@@ -48,7 +48,7 @@
 
 - 🔧 &nbsp; Jenkins
 
-<h3>🛠 Por aprender</h3>
+<h3>⏱ Por aprender</h3>
 
 - 🔧 &nbsp; Prometeus
 
