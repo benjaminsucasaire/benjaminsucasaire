@@ -83,13 +83,13 @@
 
 <p align="center">
 
-<a href="https://benjaminsucasaire.github.io/portafolio-web-benjaminsh/"><img alt="Website" src="https://img.shields.io/badge/benjamin.sistemascloudcyb.ml-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://benjaminsucasaire.github.io/portafolio-web-benjaminsh/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/benjamin.sistemascloudcyb.ml-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/benjamin-abel-sucasaire-huamani-719624182/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Benjamin%20Abel%20Sucasaire-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/benjamin-abel-sucasaire-huamani-719624182/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Benjamin%20Abel%20Sucasaire-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/benjamin_abue/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-benjamin_abue-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/benjamin_sucasaire/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-benjamin_abue-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:benjaminsucasaire@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-benjaminsucasaire@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:benjaminsucasaire@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-benjaminsucasaire@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
