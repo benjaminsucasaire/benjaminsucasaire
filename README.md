@@ -7,8 +7,6 @@
 
 - 🎓 &nbsp; Estudiante de Ingeniería de Sistemas e Informatica.
 
-- 🌱 &nbsp; Aprendiendo sobre Cloud Computing y desarrollo web.
-
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 
 - 🙋‍♂️ &nbsp; Me encanta la música, ver peliculas y dormir :)
