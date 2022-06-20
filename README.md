@@ -12,7 +12,7 @@
 - 🙋‍♂️ &nbsp; Me encanta la música, ver peliculas y dormir :)
 
 
-<h3> 📜 certificados </h3>
+<h3> 📜 Certificados </h3>
 
 - ✅ &nbsp; aws solutions architect associate.
 
@@ -83,9 +83,9 @@
 
 <p align="center">
 
-<a href="https://benjaminsucasaire.github.io/portafolio-web-benjaminsh/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/benjamin.sistemascloudcyb.ml-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://github.com/benjaminsucasaire/portafolio-RS" target="_blank"><img alt="Website" src="https://img.shields.io/badge/benjamin.sistemascloudcyb.ml-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/benjamin-abel-sucasaire-huamani-719624182/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Benjamin%20Abel%20Sucasaire-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/benjamin-abel-sucasaire-719624182/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Benjamin%20Abel%20Sucasaire-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/benjamin_sucasaire/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-benjamin_abue-black?style=flat-square&logo=instagram"></a>
 
