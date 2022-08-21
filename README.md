@@ -14,7 +14,7 @@
 
 <h3> 📜 Certificados </h3>
 
-- ✅ &nbsp; aws solutions architect associate.
+- ✅ &nbsp; AWS Solutions Architect Associate.
 
 - ✅ &nbsp; AWS  Cloud Practitioner
 
