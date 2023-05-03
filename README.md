@@ -5,7 +5,6 @@
 <h3> 👨🏻•💻 Acerca de mí </h3>
 
 
-- 🎓 &nbsp; Estudiante de Ingeniería de Sistemas e Informatica.
 
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 
