@@ -13,9 +13,9 @@
 
 <h3> 📜 Certificados </h3>
 
-- ✅ &nbsp; AWS Solutions Architect Associate.
-
-- ✅ &nbsp; AWS  Cloud Practitioner
+- ✅ &nbsp; AWS Certified Solutions Architect – Associate
+- ✅ &nbsp; AWS Certified Developer – Associate
+- ✅ &nbsp; AWS Certified Cloud Practitioner
 
 
 <h3>🛠 Pila de tecnología</h3>
