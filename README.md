@@ -44,13 +44,17 @@
 - 🐳 &nbsp; Docker
 
 - 🔧 &nbsp; Jenkins
+  
+- 🔧 &nbsp; Terraform
 
+- 🔧 &nbsp; GitHub Action
 
 <h3>⏱ Por aprender</h3>
 
 - 🔧 &nbsp; Prometeus
+  
+- 🔧 &nbsp; Grafana
 
-- 🔧 &nbsp; Terraform
 <hr>
 
 
